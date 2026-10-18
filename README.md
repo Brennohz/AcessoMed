@@ -18,12 +18,8 @@ Pessoas adultas e idosas que precisam adquirir medicamentos prescritos e familia
 
 O usuário pesquisa um medicamento e confirma concentração e apresentação. O resultado reúne:
 
-1. **Acesso gratuito:** correspondência com o elenco do Farmácia Popular, orientações de acesso e estabelecimentos credenciados no recorte escolhido.
-2. **Compra online:** ofertas do produto exato, com loja, quantidade, preço, condições, link e data da coleta.
-
-### Fluxo principal
-
-Pesquisar → confirmar apresentação → consultar acesso gratuito e ofertas → abrir a fonte oficial ou a loja.
+**Acesso gratuito:** correspondência com o elenco do Farmácia Popular, orientações de acesso e estabelecimentos credenciados no recorte escolhido.
+**Compra online:** ofertas do produto exato, com loja, quantidade, preço, condições, link e data da coleta.
 
 ### Funcionalidades do protótipo
 
@@ -31,8 +27,7 @@ Pesquisar → confirmar apresentação → consultar acesso gratuito e ofertas �
 - Seleção explícita de concentração, forma farmacêutica e apresentação.
 - Resultado de correspondência com o Farmácia Popular.
 - Consulta de estabelecimentos credenciados por município.
-- Comparação de ofertas com identificação da embalagem e preço por unidade quando a comparação for apropriada.
-- Fontes, datas e tratamento claro de registros incompletos.
+- Comparação de ofertas
 
 ## 4. Dados públicos, fontes e dependências
 
