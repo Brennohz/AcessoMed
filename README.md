@@ -55,7 +55,6 @@ Fontes oficiais:
 - [Orientações de acesso ao programa](https://www.gov.br/saude/pt-br/composicao/sectics/farmacia-popular).
 - [Consulta de medicamentos da Anvisa](https://consultas.anvisa.gov.br/#/medicamentos/).
 
-
 ## 5. Tecnologias propostas e justificativas
 
 | Tecnologia | Aplicação e justificativa |
@@ -66,10 +65,6 @@ Fontes oficiais:
 | Python | Preparação dos dados, normalização de registros e lógica de consulta |
 | pandas e openpyxl | Leitura e preparação das planilhas oficiais |
 | Git e GitHub | Versionamento, documentação e registro das contribuições do grupo |
-
-Arquitetura prevista: arquivos e fontes externas → importação com conferência → banco SQLite → aplicação Flask → navegador.
-
-## 6. Pitch inicial
 
 O AcessoMed é uma plataforma que ajuda pessoas a consultar possibilidades de acesso ao medicamento prescrito, reunindo informações do Farmácia Popular, ofertas de compra online e relações de equivalência verificadas em fontes oficiais. A proposta organiza dados que normalmente precisam ser consultados separadamente e permite comparar apresentações, quantidades e condições de preço com mais clareza. Com um protótipo de escopo reduzido e fontes identificadas, o projeto pretende facilitar decisões de aquisição e contribuir para a meta 3.8 da ODS 3, voltada ao acesso a medicamentos a preços acessíveis.
 
