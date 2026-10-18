@@ -19,6 +19,7 @@ Pessoas adultas e idosas que precisam adquirir medicamentos prescritos e familia
 O usuário pesquisa um medicamento e confirma concentração e apresentação. O resultado reúne:
 
 **Acesso gratuito:** correspondência com o elenco do Farmácia Popular, orientações de acesso e estabelecimentos credenciados no recorte escolhido.
+
 **Compra online:** ofertas do produto exato, com loja, quantidade, preço, condições, link e data da coleta.
 
 ### Funcionalidades do protótipo
