@@ -12,9 +12,7 @@ O problema delimitado pelo projeto é o esforço necessário para reunir essas i
 
 ## 2. Público e contexto
 
-Pessoas adultas que precisam adquirir medicamentos prescritos e familiares que auxiliam nessa aquisição, especialmente quem precisa comparar custos. A consulta será individual, por navegador de celular ou computador.
-
-O recorte inicial será um catálogo de aproximadamente dez medicamentos/apresentações, selecionados após a verificação dos dados, e estabelecimentos participantes de um município a definir. Essa delimitação serve ao protótipo; a estrutura poderá ser ampliada posteriormente.
+Pessoas adultas e idosas que precisam adquirir medicamentos prescritos e familiares que auxiliam nessa aquisição, especialmente quem precisa comparar custos. A consulta será por navegador de celular ou computador.
 
 ## 3. Solução proposta
 
@@ -22,8 +20,6 @@ O usuário pesquisa um medicamento e confirma concentração e apresentação. O
 
 1. **Acesso gratuito:** correspondência com o elenco do Farmácia Popular, orientações de acesso e estabelecimentos credenciados no recorte escolhido.
 2. **Compra online:** ofertas do produto exato, com loja, quantidade, preço, condições, link e data da coleta.
-
-As três partes poderão aparecer juntas. Inclusão no Farmácia Popular não comprova estoque em uma unidade. Ausência no catálogo do programa não significa ausência de fornecimento por outros canais do SUS.
 
 ### Fluxo principal
 
@@ -66,7 +62,9 @@ Fontes oficiais:
 | pandas e openpyxl | Leitura e preparação das planilhas oficiais |
 | Git e GitHub | Versionamento, documentação e registro das contribuições do grupo |
 
-O AcessoMed é uma plataforma que ajuda pessoas a consultar possibilidades de acesso ao medicamento prescrito, reunindo informações do Farmácia Popular, ofertas de compra online e relações de equivalência verificadas em fontes oficiais. A proposta organiza dados que normalmente precisam ser consultados separadamente e permite comparar apresentações, quantidades e condições de preço com mais clareza. Com um protótipo de escopo reduzido e fontes identificadas, o projeto pretende facilitar decisões de aquisição e contribuir para a meta 3.8 da ODS 3, voltada ao acesso a medicamentos a preços acessíveis.
+## 6. Pitch inicial
+
+O AcessoMed é uma plataforma que ajuda pessoas a consultar possibilidades de acesso ao medicamento prescrito, reunindo informações do Farmácia Popular, ofertas de compra online. A proposta organiza dados que normalmente precisam ser consultados separadamente e permite comparar apresentações, quantidades e condições de preço com mais clareza. Com um protótipo de escopo reduzido e fontes identificadas, o projeto pretende facilitar decisões de aquisição e contribuir para a meta 3.8 da ODS 3, voltada ao acesso a medicamentos a preços acessíveis.
 
 ## 7. Equipe e participação
 
