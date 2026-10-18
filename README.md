@@ -69,8 +69,11 @@ O AcessoMed é uma plataforma que ajuda pessoas a consultar possibilidades de ac
 ## 7. Equipe e participação
 
 Brenno Oliveira Souza - 2026108788 - BCC 2º Semestre
+
 Murillo Manoel Silva Mendes - 2026104915 - BCC 2º Semestre
+
 Rayssa Morais de Aquino - 2026112326 - BCC 2º Semestre
+
 Ahmad Fayaz Kohistani - 2026114693 - BCC 2º Semestre
 
 
