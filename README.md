@@ -54,7 +54,6 @@ Fontes oficiais:
 - [Lista de estabelecimentos participantes](https://www.gov.br/saude/pt-br/composicao/sectics/farmacia-popular/publicacoes/farmacias-participante-do-programa-farmacia-popular/view).
 - [Orientações de acesso ao programa](https://www.gov.br/saude/pt-br/composicao/sectics/farmacia-popular).
 - [Consulta de medicamentos da Anvisa](https://consultas.anvisa.gov.br/#/medicamentos/).
-- [Anvisa: medicamentos similares e intercambialidade](https://www.gov.br/anvisa/pt-br/assuntos/medicamentos/similares).
 
 
 ## 5. Tecnologias propostas e justificativas
