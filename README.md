@@ -22,13 +22,12 @@ O usuário pesquisa um medicamento e confirma concentração e apresentação. O
 
 1. **Acesso gratuito:** correspondência com o elenco do Farmácia Popular, orientações de acesso e estabelecimentos credenciados no recorte escolhido.
 2. **Compra online:** ofertas do produto exato, com loja, quantidade, preço, condições, link e data da coleta.
-3. **Equivalências verificadas:** relações de equivalência confirmadas em fonte oficial e ofertas correspondentes, com orientação para conferência da substituição pelo farmacêutico.
 
 As três partes poderão aparecer juntas. Inclusão no Farmácia Popular não comprova estoque em uma unidade. Ausência no catálogo do programa não significa ausência de fornecimento por outros canais do SUS.
 
 ### Fluxo principal
 
-Pesquisar → confirmar apresentação → consultar acesso gratuito e ofertas → comparar embalagens e condições → abrir a fonte oficial ou a loja.
+Pesquisar → confirmar apresentação → consultar acesso gratuito e ofertas → abrir a fonte oficial ou a loja.
 
 ### Funcionalidades do protótipo
 
@@ -37,7 +36,6 @@ Pesquisar → confirmar apresentação → consultar acesso gratuito e ofertas �
 - Resultado de correspondência com o Farmácia Popular.
 - Consulta de estabelecimentos credenciados por município.
 - Comparação de ofertas com identificação da embalagem e preço por unidade quando a comparação for apropriada.
-- Exibição de equivalências verificadas, sem inferir substituição apenas pela substância ou indicação.
 - Fontes, datas e tratamento claro de registros incompletos.
 
 ## 4. Dados públicos, fontes e dependências
