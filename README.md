@@ -16,11 +16,11 @@ Pessoas adultas e idosas que precisam adquirir medicamentos prescritos e familia
 
 ## 3. Solução proposta
 
-O usuário pesquisa um medicamento e confirma concentração e apresentação. O resultado reúne:
+A plataforma permitirá pesquisar um medicamento e consultar opções de acesso gratuito ou de compra online:
 
-**Acesso gratuito:** correspondência com o elenco do Farmácia Popular, orientações de acesso e estabelecimentos credenciados no recorte escolhido.
+Farmácia Popular: se o medicamento está incluído no programa, quais documentos são necessários e onde ficam os estabelecimentos credenciados.
 
-**Compra online:** ofertas do produto exato, com loja, quantidade, preço, condições, link e data da coleta.
+Comparação de preços: ofertas do medicamento em farmácias online, com preço, quantidade por embalagem, condições de desconto, link da loja e data da consulta.
 
 ### Funcionalidades do protótipo
 
