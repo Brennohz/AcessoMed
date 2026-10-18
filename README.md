@@ -62,7 +62,7 @@ Fontes oficiais:
 
 O AcessoMed é uma plataforma que ajuda pessoas a consultar possibilidades de acesso ao medicamento prescrito, reunindo informações do Farmácia Popular, ofertas de compra online. A proposta organiza dados que normalmente precisam ser consultados separadamente e permite comparar apresentações, quantidades e condições de preço com mais clareza. Com um protótipo de escopo reduzido e fontes identificadas, o projeto pretende facilitar decisões de aquisição e contribuir para a meta 3.8 da ODS 3, voltada ao acesso a medicamentos a preços acessíveis.
 
-## 7. Equipe e participação
+## 7. Equipe
 
 Brenno Oliveira Souza - 2026108788 - BCC 2º Semestre
 
