@@ -52,7 +52,7 @@ Pesquisar → confirmar apresentação → consultar acesso gratuito e ofertas �
 
 Fontes oficiais:
 
-- [Elenco de medicamentos e insumos do Farmácia Popular]([https://www.gov.br/saude/pt-br/composicao/sectics/farmacia-popular/arquivos/elenco-de-medicamentos-e-insumos.pdf/view](https://www.gov.br/saude/pt-br/composicao/sectics/farmacia-popular/arquivos/elenco-de-medicamentos-e-insumos-pfpb.pdf)).
+- [Elenco de medicamentos e insumos do Farmácia Popular]((https://www.gov.br/saude/pt-br/composicao/sectics/farmacia-popular/arquivos/elenco-de-medicamentos-e-insumos-pfpb.pdf)).
 - [Lista de estabelecimentos participantes](https://www.gov.br/saude/pt-br/composicao/sectics/farmacia-popular/publicacoes/farmacias-participante-do-programa-farmacia-popular/view).
 - [Orientações de acesso ao programa](https://www.gov.br/saude/pt-br/composicao/sectics/farmacia-popular).
 - [Consulta de medicamentos da Anvisa](https://consultas.anvisa.gov.br/#/medicamentos/).
