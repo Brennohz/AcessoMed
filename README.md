@@ -63,9 +63,10 @@ Fontes oficiais:
 
 | Tecnologia | Aplicação e justificativa |
 |---|---|
-| Python | Preparação dos dados, normalização de registros e lógica de consulta |
+| Figma | Identidade Visual |
 | HTML e CSS | Interface responsiva, legível e acessível por celular e computador |
 | JavaScript | Filtros, seleção de apresentações e comparação interativa |
+| Python | Preparação dos dados, normalização de registros e lógica de consulta |
 | pandas e openpyxl | Leitura e preparação das planilhas oficiais |
 | Git e GitHub | Versionamento, documentação e registro das contribuições do grupo |
 
